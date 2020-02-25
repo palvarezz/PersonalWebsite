@@ -1,0 +1,29 @@
+.sm-btm{
+  margin: 15px 0px;
+  padding: 1%;
+  text-decoration: none;
+}
+.container-fluid{
+  padding: 3% 15% 5%;
+}
+
+
+#title{
+  background-color: grey;
+  color: white;
+  font: 'Arial'
+}
+#skills{
+  background-color: white;
+}
+#about{
+
+}
+#projects{
+
+}
+#footer{
+  background-color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+}
