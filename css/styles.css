@@ -1,29 +1,52 @@
-.sm-btm{
+.sm-btm {
   margin: 15px 0px;
   padding: 1%;
   text-decoration: none;
 }
-.container-fluid{
+
+.container-fluid {
   padding: 3% 15% 5%;
 }
 
+.carousel-item {
+  padding: 7% 15%;
+}
 
-#title{
+.al {
+  padding-right: 0px;
+  padding-left: 5rem;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.middle {
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+
+
+#title {
   background-color: grey;
   color: white;
   font: 'Arial'
 }
-#skills{
+
+#skills {
   background-color: white;
 }
-#about{
 
-}
-#projects{
+#about {}
 
+#projects {
+  background-color: grey;
+  align-items: center;
 }
-#footer{
-  background-color: #fff;
+
+#footer {
+  background-color: grey;
   text-align: center;
   padding: 7% 15%;
 }
